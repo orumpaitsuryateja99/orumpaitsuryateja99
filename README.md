@@ -81,14 +81,6 @@ I'm **Surya Teja Orumpati**, a Master's student in Computer Science at the **Uni
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orumpaitsuryateja99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 💼 Experience Highlights
 
 | Role | Organization | Duration |
